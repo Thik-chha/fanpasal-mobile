@@ -1,6 +1,8 @@
-# merchy
+# FanPasal App
 
-A new Flutter project.
+A mobile app for the user/customer side of the FanPasal platform along with the scan and verify feature.
+
+
 
 ## Getting Started
 
